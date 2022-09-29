@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome! I'm Lucien </h1>   
+<h1 align="center"> Welcome! I'm Luc </h1>   
   <p>A graduating High School student having a good time with Computer Science.</p>
 
 ---
