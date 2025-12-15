@@ -1,7 +1,12 @@
 <h1 align="center"> Welcome! I'm Luc </h1>   
-  <p>A graduating High School student having a good time with Computer Science.</p>
+  <p>A nearly-graduated undergrad at MIT.</p>
+
+FPGA
+* [Line-rate Ethernet Frame Inline Network Filter](https://github.com/luciengaitskell/lefin-filter)
+* [Auto-calibrating Display using Unconstrained Layouts of Individually-addressable LEDs](https://github.com/nowiley/aduli-led)
 
 ---
+Back in high school...
 
 ### Jobs:
 - Software Engineer: [Damiano Global Corporation](https://github.com/DamianoGlobal) (mostly private 😕)
